@@ -12,5 +12,5 @@ Me llamo Alan Jesus y estudio en la Facultad de Informatica de la UAQ
     - Minecraft
 - Dibujar 
 
-## Mi mascota
+## Mi mascotas
 ![Foto de mi mascota](Trufa.jpeg)
